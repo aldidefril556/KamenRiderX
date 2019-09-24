@@ -1,4 +1,4 @@
 # KamenRiderX
 
 
-#Recode mandul 30 tahun
+# Rekode Mandul 30 tahun
